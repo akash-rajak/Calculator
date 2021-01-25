@@ -4,7 +4,6 @@
 from tkinter import *
 import math
 
-
 # globally declare the expression variable
 expression = ""
 
