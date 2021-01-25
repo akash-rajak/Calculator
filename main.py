@@ -1,4 +1,4 @@
-# Hello , tkinter program for calculator
+# Here , tkinter program for calculator
 
 # import everything from tkinter module
 from tkinter import *
