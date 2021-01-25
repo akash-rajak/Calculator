@@ -1,5 +1,4 @@
 # Here , tkinter program for calculator
-
 # import everything from tkinter module
 from tkinter import *
 import math
